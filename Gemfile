@@ -7,9 +7,11 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
+gem 'httparty', '~> 0.13.7'
+gem 'meta_nexus'
+gem 'rbattlenet'
 group :development, :test do
   gem 'byebug'
-  gem 'web-console', '~> 2.0'
   gem 'spring'
 end
 gem 'bootstrap', '~> 4.0.0.alpha3.1'
@@ -19,6 +21,7 @@ group :development do
   gem 'binding_of_caller', :platforms=>[:mri_21]
   gem 'rails_layout'
   gem 'spring-commands-rspec'
+  gem 'web-console', '~> 2.0'
 end
 group :development, :test do
   gem 'factory_girl_rails'

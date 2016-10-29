@@ -34,5 +34,12 @@ module LuckyLegendary
 
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
+
+    # Configure the Battle.net API library we're using.
+    MetaNexus.config do |c|
+      c.region = 'us'
+      c.locale = 'en_US'
+      c.api_key = 'foo'
+    end
   end
 end
