@@ -1,0 +1,11 @@
+development:
+  battle_net:
+    api_key: get_from_sonya
+
+test:
+  battle_net:
+    api_key: get_from_sonya
+
+production:
+  battle_net:
+    api_key: get_from_sonya
