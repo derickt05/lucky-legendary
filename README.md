@@ -1,23 +1,11 @@
 Lucky Legendary
 ================
 
-This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
-provided by the [RailsApps Project](http://railsapps.github.io/).
+Sometimes the quest for data is real. Or the quest for legendaries.
 
-Rails Composer is supported by developers who purchase our RailsApps tutorials.
-
-Problems? Issues?
------------
-
-Need help? Ask on Stack Overflow with the tag 'railsapps.'
-
-Your application contains diagnostics in the README file. Please provide a copy of the README file when reporting any issues.
-
-If the application doesn't work as expected, please [report an issue](https://github.com/RailsApps/rails_apps_composer/issues)
-and include the diagnostics.
-
-Ruby on Rails
--------------
+Getting Started
+---------------
+Rename a copy of config.sample.yml to config.yml and get the API key from me.
 
 This application requires:
 
@@ -26,23 +14,14 @@ This application requires:
 
 Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
 
-Getting Started
+Problems? Issues?
 ---------------
+This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
+provided by the [RailsApps Project](http://railsapps.github.io/).
 
-Documentation and Support
--------------------------
+Need help? Ask on Stack Overflow with the tag 'railsapps.'
 
-Issues
--------------
+Your application contains diagnostics in the README file. Please provide a copy of the README file when reporting any issues.
 
-Similar Projects
-----------------
-
-Contributing
-------------
-
-Credits
--------
-
-License
--------
+If the application doesn't work as expected, please [report an issue](https://github.com/RailsApps/rails_apps_composer/issues)
+and include the diagnostics.
